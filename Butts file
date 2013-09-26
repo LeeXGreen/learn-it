@@ -1,0 +1,8 @@
+//This file is for butts and the acquisition thereof.
+
+if (butts < 0)
+  set butts = 0;
+if (butts = 0)
+  increment butts;
+if (butts > 0)
+  then run SirMixAlot;
